@@ -1,11 +1,3 @@
-/* 
-Code should generate a random message 
-
-array filled with random messages/quotes
-generate a random number (between 0 and array length)
-return that array element /console.log it
-*/
-
 let forecasts = {
     beginning: ["Today", "Tomorrow", "Next week", "This afternoon", "This weekend", "Tomorrow morning", "Tomorrow afternoon", "On Tuesday", "On Thursday"],
     middle: ["it will be", "it is likely to be", "it looks like it will be", "it will probably be", "it will certainly be", "it is unlikely to be", "it definitely will not be"],
